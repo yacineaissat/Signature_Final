@@ -1,6 +1,6 @@
 # Projet Composant
 
-## Equipe : Naïm Bendjebbour - Yassine Aissat - Raouf Haddad - Lounes Tiouchichine
+## Equipe : Naïm Bendjebbour - Yacine Aissat - Raouf Haddad - Lounes Tiouchichine
 
 ## Composant 6 - Signature
 
