@@ -40,7 +40,7 @@ Vous pouvez sauvegarder les 2 clés : `private_key` et `public_key` dans 2 fichi
 
 1- Récupération du projet  :
 
-git clone https://github.com/NaimBendjebbour/C-ProgrammationParComposant.git
+git clone https://github.com/yacineaissat/Signature_Final
 
 2- Dans le répertoire release lancer Composant_Signature.exe
 
